@@ -2,10 +2,10 @@
 
 <img src="figure/graph_200.png">
 <p align="center">
-  **Displaying 201 nodes, 200 relationships**
+  *Displaying 201 nodes, 200 relationships*
 </p>
 
 <img src="figure/graph_400.png">
 <p align="center">
-  **Displaying 300 nodes**
+  *Displaying 300 nodes*
 </p>
